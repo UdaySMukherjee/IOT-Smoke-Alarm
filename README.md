@@ -4,13 +4,19 @@ Welcome to the DIY Arduino Smoke Alarm project! This repository contains all the
 
 ## Materials Needed:
 
-ESP32: [](https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/)
-MQ-2 Smoke Sensor: [](https://robu.in/product/waveshare-mq-2-gas-sensor/)
-Relay Module: [](https://robu.in/product/12v-1-channel-relay-module/)
-Buzzer: [](https://robu.in/product/piezo-electronic-buzzer-beep-alarm-bell-continuous-sound-3v-24v-buzzer-electromagnetic/)
-Fan: [](https://robu.in/product/12v-4010-cooling-fan-for-3d-printer/)
-Breadboard: [](https://robu.in/product/transparent-400-points-solderless-breadboard/)
-Jumper Wires: [](https://robu.in/product/65pcs-flexible-breadboard-jumper/)
+ESP32: [Buy](https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/)
+
+MQ-2 Smoke Sensor: [Buy](https://robu.in/product/waveshare-mq-2-gas-sensor/)
+
+Relay Module: [Buy](https://robu.in/product/12v-1-channel-relay-module/)
+
+Buzzer: [Buy](https://robu.in/product/piezo-electronic-buzzer-beep-alarm-bell-continuous-sound-3v-24v-buzzer-electromagnetic/)
+
+Fan: [Buy](https://robu.in/product/12v-4010-cooling-fan-for-3d-printer/)
+
+Breadboard: [Buy](https://robu.in/product/transparent-400-points-solderless-breadboard/)
+
+Jumper Wires: [Buy](https://robu.in/product/65pcs-flexible-breadboard-jumper/)
 
 ## Features:
 Smoke Detection: Uses the MQ-2 sensor to detect smoke and flammable gases.
@@ -28,6 +34,6 @@ Configure WiFi and Email: Update the code with your WiFi credentials and email s
 Test the System: Simulate smoke to test the alarm and ensure the email notification is sent.
 
 Contact:
-If you have any questions or need further assistance, please open an issue or contact us through [](usmtechlab@gmail.com).
+If you have any questions or need any more help, please open an issue or contact us through [gmail](usmtechlab@gmail.com).
 
-Don't forget to star this repository if you found it useful and subscribe to our YouTube Channel [](https://youtu.be/aTRf1TGY8rM) for more DIY tech projects!
+Don't forget to star this repository if you found it useful and subscribe to our YouTube Channel [USMTechLabs](https://youtu.be/aTRf1TGY8rM) for more DIY tech projects!
